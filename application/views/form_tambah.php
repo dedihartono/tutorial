@@ -3,7 +3,6 @@
 <head>
 	<title>Form Tambah</title>
 </head>
-
 <body>
 	<h3>Form Tambah Barang</h3>
 	<form action="<?php echo base_url();?>katalog/simpan3/" method="post">
@@ -22,6 +21,6 @@
 		<div>
 			<button type="submit">Simpan</button>
 		</div>
-	</form>		
+	</form>
 </body>
 </html>
